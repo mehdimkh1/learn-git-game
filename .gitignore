@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Save files (auto-generated when playing)
+git_quest_save.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Game working directory (created during gameplay)
+git-quest/
+
+# Old lesson files (not part of the game)
+lesson-*.md
+cheat-sheet.md
